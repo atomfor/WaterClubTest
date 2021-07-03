@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WaterClub</string>
+    <string name="have_account">У мене вже є обліковий запис</string>
+    <string name="check_in">Реєстрація</string>
+    <string name="text_buttonCompanyCheckIn">Ми організація</string>
+    <string name="text_buttonPersonaCheckIn">Я приватна особа</string>
+</resources>
